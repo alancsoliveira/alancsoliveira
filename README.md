@@ -1,4 +1,5 @@
-# Hi, i'm Alan! 👋
+# Hi, i'm Alan!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alancsoliveira)](https://github.com/alancsoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alancsoliveira/)](https://www.linkedin.com/in/alancsoliveira/)
