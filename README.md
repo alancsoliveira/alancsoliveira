@@ -12,11 +12,10 @@
 - 🔭 Skills in JS/TS, HTML, CSS, ReactJS, Node.js and others.
 - 🎓 I'm graduating in Computer Networks from the Federal University of Ceará.
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancsoliveira&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alancsoliveira&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+
+<div align="center">
+  <a href="https://github.com/adhmattheus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alancsoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancsoliveira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
